@@ -53,7 +53,7 @@ class ReportManager(models.Manager):
         return self.get_queryset().get_by_line_and_day(day, line_id)
 
     def aggregate_execution(self):
-        return self.get_queryset().aggregate_execution()
+         return self.get_queryset().aggregate_execution()
 
     def aggregate_plan(self):
         return self.get_queryset().aggregate_plan()
