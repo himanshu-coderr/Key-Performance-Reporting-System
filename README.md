@@ -1,0 +1,2 @@
+# Performance-Reporting-Solution
+A Django-based web application which allows employees to post BAU issues in a more strategic way on a dashboard, gives one stop shop to managers. Automation of Day to Day activities reporting in a presentable manner including functionalities of comment, like or dislike on the submission of Reports with Sign in and Sign up. Developed the front-end using HTML, CSS, JavaScript and Jquery. Django (Python) framework was used for backend development.
